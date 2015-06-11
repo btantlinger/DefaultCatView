@@ -21,7 +21,7 @@ $installer = $this;
 $installer->startSetup();
 $attribute  = array(
     'type'          =>  'varchar',
-    'label'         =>  'Show Products as',
+    'label'         =>  'List Mode',
     'input'         =>  'select',
     'source'        =>  'defaultcatview/category_attribute_source_view',
     'global'        =>  Mage_Catalog_Model_Resource_Eav_Attribute::SCOPE_STORE,
