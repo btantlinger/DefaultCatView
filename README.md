@@ -9,6 +9,9 @@ categories in your store. This module adds an option to the Display Settings for
 each category that allows you to specify Grid, List, or Default on a per
 category basis.
 
+[See the full details](http://www.webmoves.net/blog/build/specify-grid-or-list-mode-on-a-per-category-basis-in-magento-3190)
+
+
 Installation
 ------------
 
